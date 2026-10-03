@@ -14,6 +14,7 @@ Love Code !
 | [0206-reverse-linked-list](https://github.com/biswalpurohit176/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/biswalpurohit176/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/biswalpurohit176/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/biswalpurohit176/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,11 +25,13 @@ Love Code !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/biswalpurohit176/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/biswalpurohit176/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/biswalpurohit176/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/biswalpurohit176/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/biswalpurohit176/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
