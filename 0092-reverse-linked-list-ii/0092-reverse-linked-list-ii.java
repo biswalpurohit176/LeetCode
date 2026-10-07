@@ -20,11 +20,11 @@ class Solution {
         ListNode curr = prev.next;
 
         for(int i=0; i<right-left; i++){
-            ListNode next = curr.next;
+            ListNode temp = curr.next;
 
-            curr.next = next.next;
-            next.next = prev.next;
-            prev.next = next;
+            curr.next = temp.next;
+            temp.next = prev.next;
+            prev.next = temp;
         }
         return dummy.next;
 
